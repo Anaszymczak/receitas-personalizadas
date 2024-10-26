@@ -1,0 +1,19 @@
+
+    <resources>
+        <string name="app_name">Receitas Malucas</string>
+        <string name="select_ingredients">Selecione 3 Ingredientes</string>
+        <string name="next">Próximo</string>
+        <string name="recipe_title">Receita Personalizada</string>
+        <string name="share_recipe">Compartilhar Receita</string>
+        <string name="btnCebola">Cebola</string>
+        <string name="btnTomate">Tomate</string>
+        <string name="btnFarinha">Farinha</string>
+        <string name="btnSal">Sal</string>
+        <string name="btnAcucar">Acucar</string>
+        <string name="btnMaionese">Maionese</string>
+        <string name="btnPepino">Pepino</string>
+        <string name="btnCenoura">Cenoura</string>
+        <string name="btnPalmito">Palmito</string>
+        <string name="btnAlface">Alface</string>
+        <!-- Adicione mais ingredientes -->
+    </resources>
